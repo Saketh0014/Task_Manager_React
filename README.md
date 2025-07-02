@@ -21,6 +21,7 @@ A simple personal task management application built with React. It allows users 
 ## 🧰 Technologies Used
 - React.js
 
-
+## 🔗 Live Demo
+[https://taskschedular.netlify.app/](https://taskschedular.netlify.app/)
 
 
